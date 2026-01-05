@@ -1,3 +1,7 @@
+import Navbar from "./components/Navbar"
+import Home from "./pages/Home"
+import Poems from "./pages/Poems"
+
 function App() {
   return (
     <>
@@ -9,3 +13,5 @@ function App() {
     </>
   )
 }
+
+export default App
